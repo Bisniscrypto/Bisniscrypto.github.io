@@ -1,0 +1,622 @@
+
+<!doctype html>
+<html class="no-js" lang="en">
+
+
+
+
+<!-- Dicerminkan dari bnbclassic.online/airdrop/ oleh HTTrack Website Copier/3.x [XR&CO'2014], Sel, 22 Jun 2021 13:45:32 GMT -->
+
+<!-- Dicerminkan dari www.bnbclassic.online/ oleh HTTrack Website Copier/3.x [XR&CO'2014], Sen, 05 Jul 2021 05:56:56 GMT -->
+<kepala>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>BNB CLASSIC | Airdrop</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="penulis" konten="BNB CLASSIC">
+    
+    <meta name="keywords" content="BNB CLASSIC, BNB CLASSIC Crypto, BNB CLASSIC Finance, Farm BNB CLASSIC, Exchanger BNB CLASSIC.">
+    <meta name="description" content="BNB CLASSIC Platform DeFi dan NFT untuk Gamer">
+    <meta name='subject' content='BNB CLASSIC'>
+    <meta name='subtitle' content='BNB CLASSIC | Platform DeFi dan NFT untuk Gamer'>
+    <meta name='copyright' content='BNB CLASSIC'>
+    <meta name='robots' content='index,follow'>
+    <link rel="ikon pintasan" type="image/x-icon" href="img/cicrlelogo.png">
+    <!-- Tempatkan favicon.ico di direktori root -->
+
+    <!-- CSS di sini -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="css/odometer.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/meanmenu.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/default.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- Tag situs global (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EWTS6DQRPJ"></script>
+<skrip>
+  window.dataLayer = window.dataLayer || [];
+  fungsi gtag(){dataLayer.push(argumen);}
+  gtag('js', Tanggal baru());
+
+  gtag('konfigurasi', 'G-EWTS6DQRPJ');
+</skrip>
+</head>
+<tubuh>
+
+    <!-- prapemuat -->
+    <div id="preloader">
+        <div id="loading-center">
+            <div id="loading-center-absolute">
+                <img src="img/Web-Preloader.svg" alt="">
+            </div>
+        </div>
+    </div>
+    <!-- preloader-end -->
+
+
+    <!-- header-area-end -->
+
+    <!-- area utama -->
+    <utama>
+
+
+        <header class="header-style-four">
+            <div class="header-top-area s-header-top-area d-none d-lg-block">
+                <div class="container custom-container-two">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 d-none d-lg-block">
+                            <div class="header-top-offer">
+                                <p>Airdrop & Pra-Penjualan Berakhir di</p>
+                                <span class="coming-time" data-countdown="2021/08/01"></span>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="header-social">
+                                <span>Ikuti kami di :</span>
+                                <ul>
+
+                                    <li><a href="https://twitter.com/network_paragon"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="https://t.me/bnbclassic"><i class="fab fa-telegram"></i></a></li>
+                                    <li><a href="https://t.me/bnbclassic"><i class="fab fa-telegram"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="sticky-header" class="header-four-wrap">
+                <div class="container custom-container-two">
+                    <div class="baris">
+                        <div class="col-12">
+                            <div class="main-menu menu-style-two">
+                                <nav>
+                                    <div class="logo">
+                                        <a href="https://bnbclassic.online/index.html"><img src="img/logodarksword.png" width="200px"
+                                                alt="Logo"></a>
+                                    </div>
+                                    <div id="mobile-menu" class="navbar-wrap d-none d-lg-flex">
+                                        <ul>
+                                            <li class="show"><a href="https://bnbclassic.online/index.html">Beranda</a> </li>
+                                            <li><a href="airdrop/index.html">Airdrop</a></li>
+                                            <li><a href="https://bscscan.com/address/0x7FC71338017DA5EEe1c2aAA0F6a3ef885d143ee3#code">Kontrak</a></li>
+                                            <li><a href="airdrop/index.html">Pra-Penjualan</a></li>
+
+
+                                            </li>
+                                            <li><a href="mailto:support@flaringswor.com">hubungi</a></li>
+                                        </ul>
+                                    </div>
+
+                                </nav>
+                            </div>
+                            <div class="mobile-menu"></div>
+                        </div>
+                        <!-- Pencarian Modal -->
+                        <div class="modal fade" id="search-modal" tabindex="-1" role="dialog" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <bentuk>
+                                        <input type="text" placeholder="Cari di sini...">
+                                        <button><i class="fa fa-search"></i></button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- ketiga-tentang-area -->
+        <section class="ketiga-tentang-area ketiga-tentang-bg pt-60 pb-10">
+            <div class="container custom-container">
+                <div class="coming-match-time">
+                    <div class="coming-time" data-countdown="2021/8/01">
+                        <div class="time-count"><span>00</span>Hari</div>
+                        <div class="time-count"><span>00</span>Jam</div>
+                        <div class="time-count"><span>00</span>Menit</div>
+                        <div class="time-count"><span>00</span>Detik</div>
+                    </div>
+                </div>
+                <div class="see-my-info-wrap pt-50">
+                    <div class="baris">
+                        <div class="col-12">
+
+                            <div class="footer-social d-flex justify-content-center">
+
+                                <ul>
+
+                                    <li data-animation="fadeInUp" data-delay=".9s"><a href="https://twitter.com/network_paragon"><i
+                                                class="fab fa-twitter"></i></a></li>
+                                    <li data-animation="fadeInUp" data-delay=".9s"><a href="https://t.me/bnbclassic"><i
+                                                class="fab fa-telegram"></i></a></li>
+                                    <li data-animation="fadeInUp" data-delay=".9s"><a href="https://t.me/bnbclassic"><i
+                                                class="fab fa-telegram"></i></a></li>
+                                </ul>
+                            </div>
+                            
+                             <div class=" text-center newsletter-form mt-3">
+<a class="w-20 btn" href="pgnt.pdf">WHITEPAPER</a>
+ </div>
+
+                            <div class="third-section-title text-center mb-75 mt-50">
+                                <h2>Daftar di Pancakeswap
+                                    <span>15.07.2021</span>
+                                </h2>
+                               
+                                    <div class="newsletter-form mt-3">
+                                        <button id="airbtns" class="w-50">KLAIM 500 </button>
+                                        <h6>DAPATKAN <span>0,0021 BNB </span> per klaim Airdrop rujukan</h6>
+                                    </div>
+                               
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-xl-12 col-lg-12 col-sm-12">
+                        <div class="my-info-box mb-30">
+                            <div class="my-info-box-top">
+                                <h6>bergabung dengan <span>Pra-Penjualan</span></h6>
+                                <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                            </div>
+                            <div class="my-info-box-content">
+
+                                <div class="pre-sale-section w-100">
+                                    <input onchange="calculate()" id="buyinput" class="amounts-box-bnb w-100" type="text" value="0.01" placeholder="0.1 BNB">
+                                    <div class="panah turun mt-3">
+                                        <img src="img/panah-bawah.png" alt="" srcset="">
+                                    </div>
+                                    <input id="buyhch2input" class="jumlah-kotak-pedang w-100 mt-3" type="teks"
+                                        placeholder="20000 BNB-CLASSIC">
+                                   
+                                        <div class="newsletter-form mt-4">
+                                            <button class="w-75" id="airbtn">BELI SEKARANG</button>
+                                        </div>
+                                   
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                    <div class="col-xl-12 col-lg-12 col-sm-12 mt-50">
+                        <div class="my-info-box mb-30 ">
+                            <div class="my-info-box-top">
+                                <h6>Dapatkan <span>Tautan Referensi</span></h6>
+                                <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                            </div>
+                            <div class="my-info-box-content">
+
+                                <div class="pre-sale-section w-100">
+                                    <input onchange="refurlspec()" id="yourbsc" class="get-refferall-box w-100" type="text" placeholder="Alamat BSC Anda">
+
+
+                                   
+                                        <div class="newsletter-form mt-4">
+                                            <button class="w-75" id="ref-airdrop">Dapatkan Tautan</button>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+<input id="airdropval" class="d-hidden" type="text" value="0,002">
+
+                    <div class="col-xl-12 col-lg-12 col-sm-12 mt-50">
+                        <div class="my-info-box mb-30 ">
+                            <div class="my-info-box-top">
+                                <h6>Diundang <span>BY</span></h6>
+                                <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                            </div>
+                            <div class="my-info-box-content">
+
+                                <div class="pre-sale-section w-100">
+                                    <input id="airinput" class="get-refferall-box w-100 text-muted" type="text" readonly value="0x810B0E8a7C0a29F5709845Bbc8998CcD7263C48B"
+
+
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                </div>
+                <gaya>
+                    #airdropval{
+                        tampilan: tidak ada;
+                    }
+                    .jumlah-kotak-bnb {
+                        lebar: 100%;
+                        background-color: #282A33 !penting;
+                        perbatasan: tidak ada;
+                        bantalan: 15px;
+                        warna: #ff;
+                        batas-radius: 10px;
+                        latar belakang: url('img/bnb.png') benar no-repeat;
+                    }
+
+                    .get-refferall-box {
+                        lebar: 100%;
+                        background-color: #282A33 !penting;
+                        perbatasan: tidak ada;
+                        bantalan: 15px;
+                        warna: #ff;
+                        batas-radius: 10px;
+
+                    }
+
+                    .jumlah-kotak-pedang {
+                        background-color: #282A33 !penting;
+                        perbatasan: tidak ada;
+                        bantalan: 15px;
+                        warna: #ff;
+                        batas-radius: 10px;
+                        latar belakang: url('img/sword.png') benar no-repeat;
+                    }
+
+                    /*
+    .coming-match-time-2 .coming-time-2 {
+	tampilan: fleksibel;
+	justify-content: pusat;
+	align-item: tengah;
+	latar belakang: #20132b;
+	bantalan: 20px 35px;
+}
+    */
+                </ gaya>
+
+
+
+            </div>
+            </div>
+            </div>
+        </bagian>
+        <section class="ketiga-tentang-area ketiga-tentang-bg pt-20 pb-40">
+            <div class="container custom-container">
+                
+
+
+
+                <div class="see-my-info-wrap pt-2">
+                    <div class="baris">
+                        <div class="col-12">
+                            <div class="third-section-title text-center mb-75">
+                                <h2> <span>BNB CLASSIC</span> Informasi</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="baris justify-content-center">
+                    
+                        <div class="col-xl-4 col-lg-6 col-sm-8">
+                            <div class="my-info-box mb-30">
+                                <div class="my-info-box-top">
+                                    <h6>Total Pasokan</h6>
+                                    <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                                </div>
+                                <div class="my-info-box-content">
+                                    <h2 class="hite">5 <span class="text-warning">Miliar</span></h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-sm-8">
+                            <div class="my-info-box mb-30">
+                                <div class="my-info-box-top">
+                                    <h6>Batas Airdrop</h6>
+                                    <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                                </div>
+                                <div class="my-info-box-content">
+                                    <h2 class="hite">500 <span class="text-warning">Juta</span></h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-sm-8">
+                            <div class="my-info-box mb-30">
+                                <div class="my-info-box-top">
+                                    <h6>Batas Pra-penjualan </h6>
+                                    <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                                </div>
+                                <div class="my-info-box-content">
+                                  <h2 class="hite">1,25<span class="text-warning"> Miliar</span></h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-sm-8">
+                            <div class="my-info-box mb-30">
+                                <div class="my-info-box-top">
+                                    <h6>Likuiditas </h6>
+                                    <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                                </div>
+                                <div class="my-info-box-content">
+                                  <h2 class="hite">2<span class="text-warning"> Miliar</span></h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-sm-8">
+                            <div class="my-info-box mb-30">
+                                <div class="my-info-box-top">
+                                    <h6>Bakar</h6>
+                                    <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                                </div>
+                                <div class="my-info-box-content">
+                                  <h2 class="hite">25<span class="text-warning"%</span></h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-sm-8">
+                            <div class="my-info-box mb-30">
+                                <div class="my-info-box-top">
+                                    <h6>Likuiditas otomatis</h6>
+                                    <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                                </div>
+                                <div class="my-info-box-content">
+                                  Likuiditas <h4 class="hite" ><span class="text-warning"> 4%</span> akan ditambahkan ke likuiditas pancakeswap<span class="text-warning"> pada setiap transfer</span> </ h4>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-xl-4 col-lg-6 col-sm-8">
+                            <div class="my-info-box mb-30">
+                                <div class="my-info-box-top">
+                                    <h6>Airdrop & Prapenjualan </h6>
+                                    <img src="img/bg/my_info_box_hover.png" alt="" class="info-box-top-hover">
+                                </div>
+                                <div class="my-info-box-content">
+                                  <h4 class="hite">Dapatkan <span class="text-warning"> 35% BNB</span> dan <span class="text-warning"> 65% BNB-CLASSIC</span> Token BNB-CLASSIC hadiah untuk referensi <span class="text-warning"> di airdrop dan presale</span> setiap </h4>
+                                </div>
+                            </div>
+                        </div>
+
+                    
+                    </div>
+                </div>
+
+                
+            </div>
+        </bagian>
+    </main>
+    <!-- area utama-akhir -->
+
+    <!-- footer-area -->
+    <footer>
+        <div class="footer-top footer-bg s-footer-bg">
+
+            <div class="wadah">
+                <div class="baris justify-content-between">
+                    <div class="col-xl-6 col-lg-6 col-md-8">
+                        <div class="footer-widget mb-50">
+                            <div class="footer-logo mb-35 mt-4">
+                                <a href="https://bnbclassic.online/index.html"><img src="img/logodarksword.png" width="220px" alt=""></a>
+                            </div>
+                            <div class="footer-text">
+                                <p>BNB CLASSIC adalah platform hiburan pertama yang menyediakan berbagai permainan
+                                    layanan industri di bawah a
+                                    satu atap, dapat diakses melalui satu login: temukan, beli, dan mainkan game, tonton
+                                    umpan streaming langsung,
+                                    berinteraksi dengan influencer favorit Anda, berpartisipasi dalam kontes, bersaing di
+                                    turnamen dan banyak lagi.</p>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="footer-widget mb-50">
+                            <div class="fw-title mb-35 mt-4">
+                                <h5>Ikuti kami</h5>
+                            </div>
+                            <div class="footer-social">
+                                <ul>
+
+                                    <li><a href="https://twitter.com/network_paragon"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="https://t.me/bnbclassic"><i class="fab fa-telegram"></i></a></li>
+                                    <li><a href="https://t.me/bnbclassic"><i class="fab fa-telegram"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="footer-widget mb-50">
+                            <div class="fw-title mb-35">
+                                <h5>Daftar Buletin</h5>
+                            </div>
+                            <div class="footer-newsletter">
+                                <form action="#">
+                                    <input type="text" placeholder="Masukkan email Anda">
+                                    <button><i class="fas fa-rocket"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-fire"><img src="img/images/footer_fire.png" alt=""></div>
+            <div class="footer-fire footer-fire-right"><img src="img/images/footer_fire.png" alt=""></div>
+        </div>
+        <div class="copyright-wrap s-copyright-wrap">
+            <div class="wadah">
+                <div class="baris">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="copyright-text">
+                            <p>Hak Cipta © 2021 <a href="https://bnbclassic.online/index.html">BNB CLASSIC</a> Hak Cipta Dilindungi Undang-Undang.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 d-none d-md-block">
+                        <div class="payment-method-img text-right">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       </footer>
+    <!-- footer-area-end -->
+     <skrip>
+
+        fungsi menghitung() {
+         var bnb = document.getElementById("buyinput").value;
+          var tokenPerEth = 100000000000;
+          var token = tokensPerEth * bnb ;
+          console.log(token);
+          
+         jika(bnb >= 0,5){
+            document.getElementById("buyhch2input").value = token*2;
+         } lain{
+            document.getElementById("buyhch2input").value = token;
+         }
+        }
+    
+    
+        fungsi refurlspec() {
+         
+          var bsc = document.getElementById('yourbsc').value;
+          console.log(bsc);
+          var finalref = document.getElementById("yourbsc").value = "bnbclassic.online/?ref="+ bsc;
+    
+        }
+    
+      </skrip>
+    
+      <!-- bagian rujukan-->
+      <skrip>
+        fungsi getreflink() {
+          var refaddr = document.getElementById("refadress").InnerText;
+          var reflink = document.getElementById("refht");
+          reflink.href = '/?ref=' + refaddr;
+          reflink.innerHTML = 'bnbclassic.online/?ref=' + refaddr;
+          document.getElementById('refs').style.display = 'blok';
+        }
+        fungsi copyToClipboard(id) {
+          var teks = document.getElementById(id).nilai; //mendapatkan teks dari Baris tertentu
+          //window.prompt("Salin ke clipboard: Ctrl+C, Enter", teks);
+          if (window.clipboardData && window.clipboardData.setData) {
+            // IE jalur kode khusus untuk mencegah textarea ditampilkan saat dialog terlihat.
+            kembali clipboardData.setData("Teks", teks);
+    
+          } else if (document.queryCommandSupported && document.queryCommandSupported("copy")) {
+            var textarea = document.createElement("textarea");
+            textarea.textContent = teks;
+            textarea.style.position = "tetap"; // Mencegah pengguliran ke bagian bawah halaman di MS Edge.
+            document.body.appendChild(textarea);
+            textarea.pilih();
+            coba {
+              kembali dokumen.execCommand("salin"); // Pengecualian keamanan mungkin dilakukan oleh beberapa browser.
+            } tangkap (mis) {
+              console.warn("Gagal menyalin ke papan klip.", ex);
+              kembali salah;
+            } akhirnya {
+              document.body.removeChild(textarea);
+            }
+          }
+        }
+		  jendela.onload=fungsi(){ 
+
+    fungsi querySt(ji) {
+   
+    hu = window.location.search.substring(1); 
+    gy = hu.split("&");
+   
+   untuk (i=0;i<gy.length;i++) { 
+   ft = gy[i].split("="); 
+   if (ft[0] == ji) { 
+    kembali kaki[1]; 
+    } 
+    } 
+    } 
+    var ref = querySt("ref");
+   
+   
+    jika( ref==null){ 
+        
+    }lain{ 
+    document.getElementById('airinput').nilai = ref; 
+    } 
+    } 
+      </skrip>
+
+   <script src="js/web3.js"></script>
+        <script src="js/apps46d346d346d346d3.js?v=19386"></script>
+     
+        <skrip>
+const Roti Panggang = Swal.mixin({
+  roti panggang: benar,
+  posisi: 'top-end',
+  showConfirmButton: salah,
+  pengatur waktu: 5000,
+  timerProgressBar: benar,
+  didOpen: (bersulang) => {
+    toast.addEventListener('mouseenter', Swal.stopTimer)
+    toast.addEventListener('mouseleave', Swal.resumeTimer)
+  }
+});
+</skrip>
+<script src="ref.js"></script>
+    <!-- JS disini -->
+    <script src="js/vendor/jquery-3.4.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/isotop.pkgd.min.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/jquery.meanmenu.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/jquery.lettering.js"></script>
+    <script src="js/jquery.textillate.js"></script>
+    <script src="js/jquery.odometer.min.js"></script>
+    <script src="js/jquery.appear.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.countdown.min.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/web3.min.js"></script>
+<!-- <script src="https://cdn.jsdelivr.net/gh/ethereum/web3@1.0.0-beta.34/dist/web3.js"></script> -->
+<script src="js/manage-web3.js"></script>
+<!-- <script type="text/javascript">
+</tubuh>
+
+
+<!-- <script src="https://rawgit.com/ethereum/web3.js/develop/dist/web3.js"></script> -->
+<!-- <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script> -->
+
+
+<!-- Dicerminkan dari bnbclassic.online/airdrop/ oleh HTTrack Website Copier/3.x [XR&CO'2014], Sel, 22 Jun 2021 13:45:47 GMT -->
+
+<!-- Dicerminkan dari www.bnbclassic.online/ oleh HTTrack Website Copier/3.x [XR&CO'2014], Sen, 05 Jul 2021 06:09:04 GMT -->
+</html>
